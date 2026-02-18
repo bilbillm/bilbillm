@@ -46,10 +46,7 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilbillm&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=ffffff" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilbillm&theme=transparent&hide_border=true&bg_color=ffffff&layout=compact" alt="Top Languages" height="180">
-</p>
+[info](https://github-readme-stats.vercel.app/api?username=bilbillm&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 ---
 
