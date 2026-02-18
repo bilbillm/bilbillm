@@ -1,6 +1,11 @@
 <!-- Apple-Style GitHub Profile README -->
 <!-- Clean, Minimalist, Black & White Aesthetic -->
 
+<!-- Header / 页头 -->
+<p align="center">
+  <strong>你好，我是 bilbillm</strong> 👋 <br>
+  <em>医学生 & 开发者</em>
+</p>
 <p align="center">
   <strong>Hi there, I'm bilbillm</strong> 👋 <br>
   <em>Medical Student & Developer</em>
@@ -8,14 +13,20 @@
 
 ---
 
+<!-- About Me / 关于我 -->
 <p align="center">
-  A medical student exploring the intersection of code, psychoanalysis, and photography.
+  一名医学生，探索代码、精神分析与摄影的交汇点。<br>
+  醉心于拉康思想、荣格原型，以及用尼康捕捉光影。
+</p>
+<p align="center">
+  A medical student exploring the intersection of code, psychoanalysis, and photography.<br>
   Fascinated by Lacanian thought, Jungian archetypes, and capturing light through a Nikon lens.
 </p>
 
 ---
 
-### Tech Stack
+<!-- Tech Stack / 技术栈 -->
+### 技术栈 | Tech Stack
 
 <p align="center">
   <a href="https://www.python.org">
@@ -34,7 +45,14 @@
 
 ---
 
-### Featured Projects
+<!-- Featured Projects / 精选项目 -->
+### 精选项目 | Featured Projects
+
+| 项目 | 描述 |
+|------|------|
+| **LogiMap** | 大学生的通用推理引擎 |
+| **Simple-HTML-Clock** | 极简主义网页时钟，模拟实时日光 |
+| **Personal Website** | 我的数字花园：bilbillm.github.io |
 
 | Project | Description |
 |---------|-------------|
@@ -44,7 +62,8 @@
 
 ---
 
-### GitHub Stats
+<!-- GitHub Stats / GitHub 统计 -->
+### GitHub 统计 | GitHub Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -57,8 +76,12 @@
 
 ---
 
-### Interests
+<!-- Interests / 兴趣 -->
+### 兴趣 | Interests
 
+<p align="center">
+  📷 摄影（尼康风光爱好者） · 🧠 精神分析（拉康派） · 🕶️ VRChat
+</p>
 <p align="center">
   📷 Photography (Nikon Landscape Enthusiast) · 🧠 Psychoanalysis (Lacanian) · 🕶️ VRChat
 </p>
