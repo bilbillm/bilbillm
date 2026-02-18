@@ -65,14 +65,9 @@
 <!-- GitHub Stats / GitHub 统计 -->
 ### GitHub 统计 | GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=bilbillm&hide_title=true&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=ffffff" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilbillm&theme=transparent&hide_border=true&bg_color=ffffff&layout=compact" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bilbillm&show_icons=true&theme=graywhite&hide_border=true" alt="bilbillm's github stats" />
+</div>
 
 ---
 
