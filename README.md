@@ -46,8 +46,10 @@
 
 ### GitHub Stats
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=bilbillm&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-<div align="center"> <img src="https://metrics.lecoq.io/bilbillm?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bilbillm&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=ffffff" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilbillm&theme=transparent&hide_border=true&bg_color=ffffff&layout=compact" alt="Top Languages" height="180">
+</p>
 
 ---
 
