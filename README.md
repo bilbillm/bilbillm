@@ -15,12 +15,12 @@
 
 <!-- About Me / 关于我 -->
 <p align="center">
-  一名医学生，探索代码、精神分析与摄影的交汇点。<br>
-  醉心于拉康思想、荣格原型，以及用尼康捕捉光影。
+  一名医学生，探索代码、精神分析与摄影。<br>
+  浅读拉康思想，以及用尼康捕捉光影。
 </p>
 <p align="center">
   A medical student exploring the intersection of code, psychoanalysis, and photography.<br>
-  Fascinated by Lacanian thought, Jungian archetypes, and capturing light through a Nikon lens.
+  Fascinated by Lacanian thought, and capturing light through a Nikon lens.
 </p>
 
 ---
@@ -51,14 +51,14 @@
 | 项目 | 描述 |
 |------|------|
 | **LogiMap** | 大学生的通用推理引擎 |
-| **Simple-HTML-Clock** | 极简主义网页时钟，模拟实时日光 |
-| **Personal Website** | 我的数字花园：bilbillm.github.io |
+| **Simple-HTML-Clock** | 极简主义网页时钟 |
+| **Personal Website** | bilbillm.github.io |
 
 | Project | Description |
 |---------|-------------|
 | **LogiMap** | The Universal Reasoning Engine for university students |
-| **Simple-HTML-Clock** | Minimalist web clock simulating real-time sunlight |
-| **Personal Website** | My digital garden at bilbillm.github.io |
+| **Simple-HTML-Clock** | Minimalist web clock |
+| **Personal Website** | bilbillm.github.io |
 
 ---
 
