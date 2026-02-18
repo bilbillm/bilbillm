@@ -51,14 +51,14 @@
 | 项目 | 描述 |
 |------|------|
 | **LogiMap** | 大学生的通用推理引擎 |
-| **Simple-HTML-Clock** | 极简主义网页时钟 |
-| **Personal Website** | bilbillm.github.io |
+| **Simple-HTML-Clock** | [极简主义网页时钟](https://bilbillm.github.io/Simple-HTML-Clock/) | |
+| **Personal Website** | [bilbillm.github.io](https://bilbillm.github.io/) |
 
 | Project | Description |
 |---------|-------------|
 | **LogiMap** | The Universal Reasoning Engine for university students |
-| **Simple-HTML-Clock** | Minimalist web clock |
-| **Personal Website** | bilbillm.github.io |
+| **Simple-HTML-Clock** | [Minimalist web clock](https://bilbillm.github.io/Simple-HTML-Clock/) |
+| **Personal Website** | [bilbillm.github.io](https://bilbillm.github.io/) |
 
 ---
 
