@@ -50,12 +50,14 @@
 
 | 项目 | 描述 |
 |------|------|
+| [**DGLab-Craft**](https://github.com/bilbillm/DGLab-Craft) | Minecraft x DGLAB：将游戏内事件转换为物理反馈（心跳/环境/伤害），支持扫码直连与实时强度显示 |
 | **LogiMap** | 大学生的通用推理引擎 |
-| **Simple-HTML-Clock** | [极简主义网页时钟](https://bilbillm.github.io/Simple-HTML-Clock/) | |
+| **Simple-HTML-Clock** | [极简主义网页时钟](https://bilbillm.github.io/Simple-HTML-Clock/) |
 | **Personal Website** | [bilbillm.github.io](https://bilbillm.github.io/) |
 
 | Project | Description |
 |---------|-------------|
+| [**DGLab-Craft**](https://github.com/bilbillm/DGLab-Craft) | Minecraft x DGLAB: Translates in-game events into physical feedback (heartbeat/environment/damage) with QR connection and real-time intensity display |
 | **LogiMap** | The Universal Reasoning Engine for university students |
 | **Simple-HTML-Clock** | [Minimalist web clock](https://bilbillm.github.io/Simple-HTML-Clock/) |
 | **Personal Website** | [bilbillm.github.io](https://bilbillm.github.io/) |
