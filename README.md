@@ -41,6 +41,15 @@
   <a href="https://www.markdownguide.org">
     <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown">
   </a>
+  <a href="https://www.java.com">
+    <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white" alt="Java">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API">
+    <img src="https://img.shields.io/badge/WebSocket-000000?style=flat&logoColor=white" alt="WebSocket">
+  </a>
+  <a href="https://www.json.org/">
+    <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON">
+  </a>
 </p>
 
 ---
@@ -50,14 +59,14 @@
 
 | 项目 | 描述 |
 |------|------|
-| [**DGLab-Craft**](https://github.com/bilbillm/DGLab-Craft) | Minecraft x DGLAB：将游戏内事件转换为物理反馈（心跳/环境/伤害），支持扫码直连与实时强度显示 |
+| [**DGLab-Craft**](https://github.com/bilbillm/DGLab-Craft) | Minecraft x DGLAB：游戏内心跳/环境/伤害事件用郊狼实时反馈 |
 | **LogiMap** | 大学生的通用推理引擎 |
 | [**Simple-HTML-Clock**](https://bilbillm.github.io/Simple-HTML-Clock/) | 极简主义网页时钟 |
 | [**Personal Website**](https://bilbillm.github.io/) | bilbillm.github.io |
 
 | Project | Description |
 |---------|-------------|
-| [**DGLab-Craft**](https://github.com/bilbillm/DGLab-Craft) | Minecraft x DGLAB: Translates in-game events into physical feedback (heartbeat/environment/damage) with QR connection and real-time intensity display |
+| [**DGLab-Craft**](https://github.com/bilbillm/DGLab-Craft) | Minecraft x DGLAB: Real-time DGLab Feedback for In-game Heartbeat, Environment, and Damage Events |
 | **LogiMap** | The Universal Reasoning Engine for university students |
 | [**Simple-HTML-Clock**](https://bilbillm.github.io/Simple-HTML-Clock/) | Minimalist web clock |
 | [**Personal Website**](https://bilbillm.github.io/) | bilbillm.github.io |
