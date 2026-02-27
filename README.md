@@ -77,7 +77,7 @@
 ### GitHub 统计 | GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-5evq8v5qn-bilbillms-projects.vercel.app/api?username=bilbillm&show_icons=true&theme=graywhite&hide_border=true&v=1" alt="bilbillm's github stats" />
+  <img src="https://github-readme-stats-5evq8v5qn-bilbillms-projects.vercel.app/api?username=bilbillm&show_icons=true&theme=graywhite&hide_border=true" alt="bilbillm's github stats" />
 </div>
 
 ---
