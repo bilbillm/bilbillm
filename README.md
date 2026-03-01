@@ -30,25 +30,25 @@
 
 <p align="center">
   <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/-Python-2d333b?style=flat&logo=python&logoColor=adbac7&labelColor=22272e" alt="Python">
   </a>
   <a href="https://git-scm.com">
-    <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/-Git-2d333b?style=flat&logo=git&logoColor=adbac7&labelColor=22272e" alt="Git">
   </a>
   <a href="https://hexo.io">
-    <img src="https://img.shields.io/badge/Hexo-000000?style=flat&logo=hexo&logoColor=white" alt="Hexo">
+    <img src="https://img.shields.io/badge/-Hexo-2d333b?style=flat&logo=hexo&logoColor=adbac7&labelColor=22272e" alt="Hexo">
   </a>
   <a href="https://www.markdownguide.org">
-    <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown">
+    <img src="https://img.shields.io/badge/-Markdown-2d333b?style=flat&logo=markdown&logoColor=adbac7&labelColor=22272e" alt="Markdown">
   </a>
   <a href="https://www.java.com">
-    <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/-Java-2d333b?style=flat&logo=openjdk&logoColor=adbac7&labelColor=22272e" alt="Java">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API">
-    <img src="https://img.shields.io/badge/WebSocket-000000?style=flat&logoColor=white" alt="WebSocket">
+    <img src="https://img.shields.io/badge/Web-Socket-2d333b?style=flat&logoColor=adbac7&labelColor=22272e" alt="WebSocket">
   </a>
   <a href="https://www.json.org/">
-    <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON">
+    <img src="https://img.shields.io/badge/-JSON-2d333b?style=flat&logo=json&logoColor=adbac7&labelColor=22272e" alt="JSON">
   </a>
 </p>
 
