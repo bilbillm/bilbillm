@@ -76,7 +76,10 @@
 <!-- GitHub Stats / GitHub 统计 -->
 ### GitHub 统计 | GitHub Stats
 
-![bilbillm's GitHub Stats](https://github-readme-stats-ecebjac7e-bilbillms-projects.vercel.app/api?username=bilbillm&show_icons=true)
+<div align="center">
+  <img width=58% src="https://github-readme-stats-six-lime-43.vercel.app/api?username=bilbillm&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide=prs,issues" />
+  <img width=32% src="https://github-readme-stats-six-lime-43.vercel.app/api/top-langs/?username=bilbillm&layout=compact&langs_count=6&hide=CMake,JavaScript,Cuda,CSS,PowerShell,GLSL,Roff,Shell" />
+</div>
 
 ---
 
