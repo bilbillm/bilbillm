@@ -76,9 +76,7 @@
 <!-- GitHub Stats / GitHub 统计 -->
 ### GitHub 统计 | GitHub Stats
 
-<div align="center">
-  <img src="github-readme-stats-ecebjac7e-bilbillms-projects.vercel.app/api?username=bilbillm&show_icons=true&theme=graywhite&hide_border=true" alt="bilbillm's github stats" />
-</div>
+[![Lumoren's GitHub stats](https://github-readme-stats-ecebjac7e-bilbillms-projects.vercel.app/api?username=bilbillm)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
