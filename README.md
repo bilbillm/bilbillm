@@ -60,14 +60,12 @@
 | 项目 | 描述 |
 |------|------|
 | [**DGLab-Craft**](https://github.com/bilbillm/DGLab-Craft) | Minecraft x DGLAB：游戏内心跳/环境/伤害事件用郊狼实时反馈 |
-| **LogiMap** | 大学生的通用推理引擎 |
 | [**Simple-HTML-Clock**](https://bilbillm.github.io/Simple-HTML-Clock/) | 极简主义网页时钟 |
 | [**Personal Website**](https://bilbillm.github.io/) | bilbillm.github.io |
 
 | Project | Description |
 |---------|-------------|
 | [**DGLab-Craft**](https://github.com/bilbillm/DGLab-Craft) | Minecraft x DGLAB: Real-time DGLab Feedback for In-game Heartbeat, Environment, and Damage Events |
-| **LogiMap** | The Universal Reasoning Engine for university students |
 | [**Simple-HTML-Clock**](https://bilbillm.github.io/Simple-HTML-Clock/) | Minimalist web clock |
 | [**Personal Website**](https://bilbillm.github.io/) | bilbillm.github.io |
 
