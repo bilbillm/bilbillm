@@ -90,3 +90,10 @@
 <p align="center">
   📷 Photography (Nikon Landscape Enthusiast) · 🧠 Psychoanalysis (Lacanian) · 🕶️ VRChat
 </p>
+
+---
+
+<!-- Sponsor / 赞助 -->
+<p align="center">
+  ☕ <a href="https://afdian.com/a/lumoren">赞助我 | Sponsor Me</a>
+</p>
